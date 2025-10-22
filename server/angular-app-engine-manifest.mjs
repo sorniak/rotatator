@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/sorniak.github.io',
+  basePath: '/camera-pwa',
   supportedLocales: {
   "en-US": ""
 },
