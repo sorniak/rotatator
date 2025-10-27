@@ -1,6 +1,6 @@
 {
-  "name": "camera-pwa",
-  "short_name": "camera-pwa",
+  "name": "rotatatator",
+  "short_name": "rotatatator",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
