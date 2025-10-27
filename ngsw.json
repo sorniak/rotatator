@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1761576716432,
-  "index": "/rotatatator/browser/index.html",
+  "timestamp": 1761576929153,
+  "index": "/rotatatator/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,11 +11,11 @@
         "ignoreVary": true
       },
       "urls": [
-        "/rotatatator/browser/favicon.ico",
-        "/rotatatator/browser/index.html",
-        "/rotatatator/browser/main-525B23GA.js",
-        "/rotatatator/browser/manifest.webmanifest",
-        "/rotatatator/browser/styles-5INURTSO.css"
+        "/rotatatator/favicon.ico",
+        "/rotatatator/index.html",
+        "/rotatatator/main-525B23GA.js",
+        "/rotatatator/manifest.webmanifest",
+        "/rotatatator/styles-5INURTSO.css"
       ],
       "patterns": []
     },
@@ -27,33 +27,33 @@
         "ignoreVary": true
       },
       "urls": [
-        "/rotatatator/browser/icons/icon-128x128.png",
-        "/rotatatator/browser/icons/icon-144x144.png",
-        "/rotatatator/browser/icons/icon-152x152.png",
-        "/rotatatator/browser/icons/icon-192x192.png",
-        "/rotatatator/browser/icons/icon-384x384.png",
-        "/rotatatator/browser/icons/icon-512x512.png",
-        "/rotatatator/browser/icons/icon-72x72.png",
-        "/rotatatator/browser/icons/icon-96x96.png"
+        "/rotatatator/icons/icon-128x128.png",
+        "/rotatatator/icons/icon-144x144.png",
+        "/rotatatator/icons/icon-152x152.png",
+        "/rotatatator/icons/icon-192x192.png",
+        "/rotatatator/icons/icon-384x384.png",
+        "/rotatatator/icons/icon-512x512.png",
+        "/rotatatator/icons/icon-72x72.png",
+        "/rotatatator/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/rotatatator/browser/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/rotatatator/browser/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/rotatatator/browser/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/rotatatator/browser/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/rotatatator/browser/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/rotatatator/browser/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/rotatatator/browser/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/rotatatator/browser/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/rotatatator/browser/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/rotatatator/browser/index.html": "d900efafc216e0c42a731ece432b9cf4e181ec8d",
-    "/rotatatator/browser/main-525B23GA.js": "9dc513c76312e781ea05f21aa5edb6bef2559c34",
-    "/rotatatator/browser/manifest.webmanifest": "39afe0aa98c43a93264ba7f7c233513a6adc5985",
-    "/rotatatator/browser/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/rotatatator/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/rotatatator/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/rotatatator/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/rotatatator/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/rotatatator/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/rotatatator/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/rotatatator/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/rotatatator/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/rotatatator/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/rotatatator/index.html": "da02001cf5c46c637e0774a8fd733b82e8794809",
+    "/rotatatator/main-525B23GA.js": "9dc513c76312e781ea05f21aa5edb6bef2559c34",
+    "/rotatatator/manifest.webmanifest": "39afe0aa98c43a93264ba7f7c233513a6adc5985",
+    "/rotatatator/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
